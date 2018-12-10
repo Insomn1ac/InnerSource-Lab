@@ -13,6 +13,6 @@ Elenco di prova
 | 11  | 12  |
 | 21  | 22  |
 
-![GitHub image](img/github_image.jpg)
+![image](https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12225921/Pembroke-Welsh-Corgi-MP.jpg)
 
 
